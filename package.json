@@ -1,5 +1,6 @@
 {
   "name": "deploy-action-sample",
+  "homepage": "https://user1736.github.io/deploy-action-sample",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
