@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.591e4915.chunk.js",
-    "main.js.map": "/static/js/main.591e4915.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f48b0d0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f48b0d0b.js.map",
-    "static/js/2.f5b77c02.chunk.js": "/static/js/2.f5b77c02.chunk.js",
-    "static/js/2.f5b77c02.chunk.js.map": "/static/js/2.f5b77c02.chunk.js.map",
-    "static/js/3.5e0c1c76.chunk.js": "/static/js/3.5e0c1c76.chunk.js",
-    "static/js/3.5e0c1c76.chunk.js.map": "/static/js/3.5e0c1c76.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f5b77c02.chunk.js.LICENSE.txt": "/static/js/2.f5b77c02.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/deploy-action-sample/static/css/main.a617e044.chunk.css",
+    "main.js": "/deploy-action-sample/static/js/main.591e4915.chunk.js",
+    "main.js.map": "/deploy-action-sample/static/js/main.591e4915.chunk.js.map",
+    "runtime-main.js": "/deploy-action-sample/static/js/runtime-main.0a978bbf.js",
+    "runtime-main.js.map": "/deploy-action-sample/static/js/runtime-main.0a978bbf.js.map",
+    "static/js/2.f5b77c02.chunk.js": "/deploy-action-sample/static/js/2.f5b77c02.chunk.js",
+    "static/js/2.f5b77c02.chunk.js.map": "/deploy-action-sample/static/js/2.f5b77c02.chunk.js.map",
+    "static/js/3.5e0c1c76.chunk.js": "/deploy-action-sample/static/js/3.5e0c1c76.chunk.js",
+    "static/js/3.5e0c1c76.chunk.js.map": "/deploy-action-sample/static/js/3.5e0c1c76.chunk.js.map",
+    "index.html": "/deploy-action-sample/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/deploy-action-sample/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f5b77c02.chunk.js.LICENSE.txt": "/deploy-action-sample/static/js/2.f5b77c02.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deploy-action-sample/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f48b0d0b.js",
+    "static/js/runtime-main.0a978bbf.js",
     "static/js/2.f5b77c02.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.591e4915.chunk.js"
