@@ -1,0 +1,24 @@
+name: Deploy app
+
+on: workflow_dispatch
+
+jobs:
+  deploy-app:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+
+      - run: yarn
+        name: Install dependencies
+
+      - run: yarn build
+        name: Build static files
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
